@@ -1,0 +1,130 @@
+{
+  "main": {
+    "name":"Noppanat Numpan",
+    "description":"I am a fresh graduate from Thammasat University, I like programming, web development, and data science. I'm trying to a bright spark but I can't do it, so I'll do my best.",
+    "image":"profile.jpg",
+    "bio":"I am a fresh graduate from Thammasat University, I like programming, web development, and data science. I'm trying to a bright spark but I can't do it, so I'll do my best.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "hugo.numpan@icloud.com",
+    "phone": "063-430-3536",
+    "address":{
+      "street":"Chiang Mai - Fang",
+      "province":"Chiang Mai",
+      "district":"Mea Tang",
+      "zip": "50150"
+    },
+    "website": "",
+    "resumedownload":"https://github.com/Uzii-hugo/Private/raw/master/Resume_noppanat_edit.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/noppanat.nampan",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/uzi_hugo",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Uzii-hugo",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Thammasat University",
+        "degree":"bachelor's degree",
+        "graduated":"2022",
+        "description":"B.Sc.(Computer Science), Major Learning Technology, Minor Data Science.",
+        "gpa":"3.37"
+      }
+    ],
+    "internship":[
+      {
+        "company":"National Science and Technology Development Agency.",
+        "title":"Supercomputer Infrastructure Team",
+        "years":"June 2021 - August 2021",
+        "description":"Collecting and processing data on the NLU."
+      }
+    ],
+    "experience":[
+      {
+        "competition":"the 22nd National Software Contest Competition of Thailand.",
+        "award":"2nd Finalist to present and receiving project development funding.",
+        "years":"February 2020",
+        "description":"2nd Finalist to present and receiving project development funding in the 22nd National Software Contest Competition of Thailand: An Intelligent Dog Collar for developing a guardian dog."
+      },
+      {
+        "competition":"the 2020 APAC HPC-AI Competition.",
+        "award":"7th place.",
+        "years":"June 2020",
+        "description":"7th place in the Asia-Pacific region in the 2020 APAC HPC-AI Competition."
+      },
+      {
+        "competition":"the 23rd National Software Contest Competition of Thailand.",
+        "award":"2nd Finalist to present project work",
+        "years":"October 2020",
+        "description":"2nd Finalist to present project work in the 23rd National Software Contest Competition of Thailand: An Intelligent Dog Harness for Protecting Beloved dogs based on Brainwave and Barking Analysis Technology."
+      },
+      {
+        "competition":"the 9th Asia Undergraduate Conference on Computing.",
+        "award":"Good paper",
+        "years":"February 2021",
+        "description":"Good paper Award at the 9th Asia Undergraduate Conference on Computing: Classification of Dog Vocalization on an Edge-AI Device."
+      },
+      {
+        "competition":"in Asia-Pacific Region in APAC HPC-AI 2021 Competition.",
+        "award":"2nd Runner Up",
+        "years":"November 2021",
+        "description":"2nd Runner Up in Asia-Pacific Region in APAC HPC-AI 2021 Competition."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python"
+      },
+      {
+        "name":"Java"
+      },
+      {
+        "name":"React"
+      },
+      {
+        "name":"Linux command"
+      },
+      {
+        "name":"Javascript"
+      },
+      {
+        "name":"C"
+      },
+      {
+        "name":"Node.js"
+      }
+    ],
+    
+    "interest":[
+      {
+        "name": "Data Science"
+      },
+      {
+        "name": "High Performance Computing"
+      },
+      {
+        "name": "Artificial intelligence"
+      },
+      {
+        "name": "Web developer"
+      },
+      {
+        "name": "Chatbot"
+      }
+
+    ]
+  }
+}
